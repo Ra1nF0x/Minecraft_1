@@ -1,0 +1,35 @@
+{
+  "name": "1.20.1_F0x",
+  "author": "Ra1nF0x",
+  "version": "1.0",
+  "description": "",
+  "fileApi": "https://github.com/Ra1nF0x/Minecraft_1/blob/main",
+  "files": [
+    {
+      "path": "hmclversion.cfg",
+      "hash": "f8d2c692f7466829d6ac6ed1a88003eefe4fbaf3"
+    },
+    {
+      "path": "icon.png",
+      "hash": "6a9b0cb8b4e011132eebee43bca1063ddd166f77"
+    },
+    {
+      "path": "options.txt",
+      "hash": "ba53a3d565a48f0466a8b2de99e8c869bc28422b"
+    }
+  ],
+  "addons": [
+    {
+      "id": "game",
+      "version": "1.20.1"
+    },
+    {
+      "id": "forge",
+      "version": "47.2.1"
+    },
+    {
+      "id": "optifine",
+      "version": "HD_U_I6_pre6"
+    }
+  ]
+}
